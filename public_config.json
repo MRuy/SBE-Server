@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "title": "Sponsor",
+      "id": "sponsor",
+      "color": "#00d400"
+    },
+    {
+      "title": "Intro animation",
+      "id": "intro",
+      "color": "#00ffff"
+    },
+    {
+      "title": "Endcards/Credits",
+      "id": "outro",
+      "color": "#0202ed"
+    },
+    {
+      "title": "Interaction/Subscribe",
+      "id": "interaction",
+      "color": "#cc00ff"
+    },
+    {
+      "title": "Unpaid/Selfpromo",
+      "id": "selfpromo",
+      "color": "#ffff00"
+    },
+    {
+      "title": "Non-Music",
+      "id": "music_offtopic",
+      "color": "#ff9900"
+    },
+    {
+      "title": "Preview",
+      "id": "preview",
+      "color": "#ff1684"
+    }
+  ]
+}

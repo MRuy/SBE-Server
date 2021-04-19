@@ -1,0 +1,28 @@
+config.json
+TODO.md
+data/
+dist/
+
+# Dependency directories
+node_modules/
+
+*.log
+npm-debug.log*
+
+# dotenv environment variables file
+.env
+.env.test
+
+docker-compose*.yml
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Mac files
+.DS_Store
